@@ -1,1 +1,1 @@
-# PRjenkinsPlugin
+# PRjenkinsPlugins
